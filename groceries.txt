@@ -2,3 +2,5 @@ Groceries liste:
     - Toilet paper
     - Fruit
     - stuff
+    - New stuff on web
+    - Web 2
