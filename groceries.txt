@@ -4,3 +4,5 @@ Groceries liste:
     - stuff
     - New stuff on web
     - Web 2
+    - Teste stash
+    - test stash pop
